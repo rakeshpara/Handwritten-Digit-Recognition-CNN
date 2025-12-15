@@ -69,3 +69,14 @@ The GUI allows users to draw digits and displays the predicted digit along with 
 ---
 
 ## 📂 Project Structure
+Handwritten-Digit-Recognition-CNN/
+├── train_digit_recognizer.py
+├── gui_digit_recognizer.py
+├── mnist_cnn_model.h5
+├── outputs/
+│ ├── prediction_0.png
+│ ├── prediction_5.png
+│ ├── prediction_3.png
+│ └── prediction_7.png
+├── screenshots/
+│ └── training_logs.png
