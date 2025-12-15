@@ -38,7 +38,7 @@ This project demonstrates how deep learning can be applied to recognize handwrit
 The model shows steady improvement in accuracy and reduction in loss across epochs.
 
 <p align="center">
-  <img src="screenshots/training_logs.png" width="700"/>
+  <img src="training_logs.png" width="700"/>
 </p>
 
 ---
@@ -48,13 +48,7 @@ The model shows steady improvement in accuracy and reduction in loss across epoc
 The GUI allows users to draw digits and displays the predicted digit along with confidence scores.
 
 <p align="center">
-  <img src="outputs/prediction_0.png" width="220"/>
-  <img src="outputs/prediction_5.png" width="220"/>
-</p>
-
-<p align="center">
-  <img src="outputs/prediction_3.png" width="220"/>
-  <img src="outputs/prediction_7.png" width="220"/>
+  <img src="output.png" width="220"/>
 </p>
 
 ---
