@@ -48,7 +48,7 @@ The model shows steady improvement in accuracy and reduction in loss across epoc
 The GUI allows users to draw digits and displays the predicted digit along with confidence scores.
 
 <p align="center">
-  <img src="output.png" width="220"/>
+  <img src="outputs" width="220"/>
 </p>
 
 ---
